@@ -53,7 +53,7 @@ Installation Steps
 
 # Clone the repository
 
-git clone https://github.com/your-username/digital-life-lessons-client.git
+git clone https://github.com/shahedkbd/digital-life-lessons-client.git
 cd digital-life-lessons-client
 
 Install dependencies
